@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Branda';
+    src: url('./Guazhiru.ttf') format('ttf');
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Branda';
+    background: url('./github-mark.png');
+}
